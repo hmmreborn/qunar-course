@@ -1,0 +1,118 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "上海迪士尼乐园",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1607/7c/7cda8b6782dabd80b4.img.jpg_600x330_8572a930.jpg",
+    "galleryImgs": [
+      "http://img1.qunarzz.com/sight/p0/1607/7c/7cda8b6782dabd80b4.img.jpg_r_800x800_d6a63068.jpg",
+      "http://img1.qunarzz.com/sight/p0/1908/53/5339e93a25e221a2a3.img.jpg_r_800x800_f807e948.jpg",
+      "http://img1.qunarzz.com/sight/p0/1905/c5/c55e2c84b0f268c9a3.img.jpg_r_800x800_4410a0cb.jpg",
+      "http://img1.qunarzz.com/sight/p0/1905/ba/ba56de7b77bab2a5a3.img.jpg_r_800x800_daf85203.jpg",
+      "http://img1.qunarzz.com/sight/p0/1905/2a/2abf1aea5eecc2f6a3.img.jpg_r_800x800_52ca584c.jpg",
+      "http://img1.qunarzz.com/sight/p0/1905/3f/3f76721b9a43d89ba3.img.jpg_r_800x800_1fa239fd.jpg",
+      "http://img1.qunarzz.com/sight/p0/1905/5c/5c04800994dab388a3.img.jpg_r_800x800_86e5cf53.jpg",
+      "http://img1.qunarzz.com/sight/p0/1905/28/28622a6b07caa0faa3.img.jpg_r_800x800_d54721f6.jpg",
+      "http://img1.qunarzz.com/sight/p0/1905/89/896379d8f6c705e6a3.img.jpg_r_800x800_ec832d3a.jpg",
+      "http://img1.qunarzz.com/sight/p0/1905/b8/b8dd7b465d3900bca3.img.jpg_r_800x800_a889ee19.jpg",
+      "http://img1.qunarzz.com/sight/p0/1905/62/627f0f4d89195e61a3.img.jpg_r_800x800_cd954076.jpg",
+      "http://img1.qunarzz.com/sight/p0/1905/37/37d8d7c0e8033ba3a3.img.jpg_r_800x800_fe56fe2d.jpg",
+      "http://img1.qunarzz.com/sight/p0/1906/de/de426d5aaf95f96a3.img.jpg_r_800x800_7588f0e0.jpg",
+      "http://img1.qunarzz.com/sight/p0/1906/e9/e9b903f81b992acca3.img.jpg_r_800x800_84713129.jpg",
+      "http://img1.qunarzz.com/sight/p0/1907/6a/6aea0d396ffdb5aea3.img.jpg_r_800x800_96b74187.jpg",
+      "http://img1.qunarzz.com/sight/p0/1907/4b/4b3546a4bf2b1034a3.img.jpg_r_800x800_8c748550.jpg",
+      "http://img1.qunarzz.com/sight/p0/1811/d5/d5153b5e337c0644a3.water.jpg_r_800x800_5785f05e.jpg",
+      "http://img1.qunarzz.com/sight/p0/1811/f3/f372e80c97620403a3.water.jpg_r_800x800_308dd336.jpg"
+    ],
+    "info": {
+      "address": "上海市浦东新区川沙新镇上海迪士尼度假区内",
+      "score": "5.0",
+      "desc": "超赞",
+      "comment": 268740,
+      "strategy": 42,
+      "notice": "温馨提示：1、购买儿童票时，尽量使用随行大人身份证购买，入园用大人的身份证即可   2、如遇身份证尾号为X的游客，购买票时请一定要输入小写字母x，否则会出现无法入园。"
+    },
+    "recommend": [
+      {
+        "id": 1,
+        "name": "上海迪士尼乐园1日成人票",
+        "time": "20:30前随买随用",
+        "price": 399,
+        "btn": "预定",
+        "label": [
+          {
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/b0/c3cf2897c74ecc02.png",
+            "name": "自营"
+          },
+          {
+            "img": "",
+            "name": "无需换票"
+          },
+          {
+            "img": "",
+            "name": "不可退"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "【不含门票】迪士尼8个快速通行+快速入园+园内导游陪玩12项",
+        "time": "22:00前可订明日",
+        "price": 839,
+        "btn": "预定",
+        "label": [
+          {
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/b0/c3cf2897c74ecc02.png",
+            "name": "自营"
+          },
+          {
+            "img": "",
+            "name": "无需换票"
+          },
+          {
+            "img": "",
+            "name": "不可退"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "【去哪儿精选】门票+车+园内导览帮领FP+行李寄存+免费童车",
+        "time": "可定明天",
+        "price": 439,
+        "btn": "查看",
+        "label": [
+          {
+            "img": "",
+            "name": "条件退"
+          },
+          {
+            "img": "",
+            "name": "无购物"
+          },
+          {
+            "img": "",
+            "name": "已售2438"
+          }
+        ]
+      }
+    ],
+    "ticket": [{
+      "title": "成人票",
+      "price": 399,
+      "children": [{
+        "title": "成人三馆联票",
+        "children": [{
+          "title": "成人三馆联票 - 某一连锁店销售"
+        }]
+      },{
+        "title": "成人五馆联票"
+      }]
+    }, {
+      "title": "学生票"
+    }, {
+      "title": "儿童票"
+    }, {
+      "title": "特惠票"
+    }]
+  }
+}
